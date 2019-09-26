@@ -19,5 +19,6 @@ sleep -Seconds 240
 
 while ($true)
 
+//made by batuhan4 github : https://github.com/Batuhan4/ders-trollleme
 
 
